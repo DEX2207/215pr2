@@ -1,0 +1,8 @@
+D:\Лунгу проекты\215 pr2\215 pr2\bin\Debug\215 pr2.exe.config
+D:\Лунгу проекты\215 pr2\215 pr2\bin\Debug\215 pr2.exe
+D:\Лунгу проекты\215 pr2\215 pr2\bin\Debug\215 pr2.pdb
+D:\Лунгу проекты\215 pr2\215 pr2\obj\Debug\215 pr2.csproj.AssemblyReference.cache
+D:\Лунгу проекты\215 pr2\215 pr2\obj\Debug\215 pr2.csproj.SuggestedBindingRedirects.cache
+D:\Лунгу проекты\215 pr2\215 pr2\obj\Debug\215 pr2.csproj.CoreCompileInputs.cache
+D:\Лунгу проекты\215 pr2\215 pr2\obj\Debug\215 pr2.exe
+D:\Лунгу проекты\215 pr2\215 pr2\obj\Debug\215 pr2.pdb
